@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Millet Congee",
+        "price": 2,
+        "calories": 50
+    },
+    {
+        "name": "Beef",
+        "price": 10,
+        "calories": 60
+    },
+    {
+        "name": "Apple",
+        "price": 5,
+        "calories": 30
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chicken",
+        "price": 15,
+        "calories": 90
+    },
+    {
+        "name": "Red wine",
+        "price": 10,
+        "calories": 30
+    },
+    {
+        "name": "Hamburger",
+        "price": 8,
+        "calories": 100
+    }
+]

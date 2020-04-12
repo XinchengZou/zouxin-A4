@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Bread",
+        "price": 5,
+        "calories": 100
+    },
+    {
+        "name": "Milk",
+        "price": 7,
+        "calories": 80
+    },
+    {
+        "name": "Egg",
+        "price": 2,
+        "calories": 60
+    }
+]
